@@ -5,7 +5,7 @@ export default function Welcome() {
     const { user} = useContext(UserContext)
     return(
         <section> 
-            <h2> Welcome</h2>
+            <h2> Welcome{user || 'Guest'}</h2>
         </section>
     )
 }
