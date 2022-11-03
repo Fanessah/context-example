@@ -1,7 +1,11 @@
+import Welcome from "./Welcome";
+import Footer from "./Footer";
+
 export default function Main() {
     return(
         <main> 
-            <p> Main</p>
+            <Welcome/>
+            <Footer/>
         </main>
     )
 }

@@ -1,6 +1,7 @@
 
 body {
   text-align:center ;
+  
 }
 
 header {
@@ -22,10 +23,12 @@ nav{
   border:2px purple;
   margin:1em;
 }
+
 div{
   border:2px solid orange;
   margin:1em;
 }
+
 section{
   border:2px brown;
   margin:1em;
