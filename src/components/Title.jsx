@@ -1,7 +1,7 @@
-export default function Main() {
+export default function Title() {
     return(
-        <main> 
-            <p> Main</p>
-        </main>
+        <div> 
+            <h1> Title</h1>
+        </div>
     )
 }

@@ -1,7 +1,7 @@
-export default function Main() {
+export default function Footer() {
     return(
-        <main> 
-            <p> Main</p>
-        </main>
+        <footer> 
+            <p> Footer</p>
+        </footer>
     )
 }

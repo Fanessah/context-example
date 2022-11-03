@@ -1,7 +1,7 @@
-export default function Main() {
+export default function Welcome() {
     return(
-        <main> 
-            <p> Main</p>
-        </main>
+        <section> 
+            <h2> Welcome</h2>
+        </section>
     )
 }
